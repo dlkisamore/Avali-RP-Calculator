@@ -1,0 +1,78 @@
+Ballistic:::Barrett M82:::50 BMG:::853:::0
+Ballistic:::Smith & Wesson M&P:::9 mm,,,.40 S&W,,,.45 ACP:::0:::0
+Ballistic:::Smith & Wesson Shield:::9 mm:::0:::0
+Ballistic:::Glock G29:::9 mm,,,10 mm:::0:::0
+Ballistic:::CZ-USA 85 Combat:::9 mm:::0:::0
+Ballistic:::Dan Wesson Specialist:::.45 ACP:::0:::0
+Ballistic:::Ruger MK III:::.22 LR:::0:::0
+Ballistic:::Springfield Armory XD(m):::9 mm,,,.40 S&W,,,.45 ACP:::0:::0
+Ballistic:::Colt Defender:::.45 ACP,,,9 mm:::0:::0
+Ballistic:::Glock G19:::9 mm:::0:::0
+Ballistic:::Ruger SR1911:::.45 ACP:::0:::0
+Ballistic:::Browning Buckmark:::.22 LR:::0:::0
+Ballistic:::PKM:::7.62 x 54 mm:::0:::12.5
+Ballistic:::M1911:::.45 ACP:::253:::0
+Ballistic:::Heckler & Koch MP5:::9 mm,,,10 mm,,,.40 S&W:::0:::13.33
+Ballistic:::FAL:::7.62 x 39 mm:::840:::11.67
+Ballistic:::Heckler & Koch G3:::7.62 x 51 mm:::800:::10
+Ballistic:::Colt AR15:::.223 Remmington,,,5.56 x 45 mm:::0:::0
+Explosive:::RPG-7:::295:::2351408:::true
+Ballistic:::Uzi:::9 mm,,,.45 ACP,,,.22 LR:::400:::10
+Ballistic:::Remington 700:::.338 Lapua Magnum,,,.308,,,.223 Remington:::0:::0
+Ballistic:::AK-47:::7.62 x 39 mm:::715:::10
+Explosive:::M67 grenade:::881100:::false
+Ballistic:::M41A Pulse Rifle:::10 x 24 mm Caseless:::0:::15
+Ballistic:::Massberg 500:::12 gauge,,,20 gauge:::0:::0
+Ballistic:::Remington 870:::12 gauge,,,20 gauge:::0:::0
+Ballistic:::Winchester SXP Defender:::12 gauge,,,20 gauge:::0:::0
+Ballistic:::Benelli M2 Tactical:::12 gauge,,,20 gauge:::0:::0
+Ballistic:::Mossberg 930 Watchdog:::12 gauge,,,20 gauge:::0:::0
+Ballistic:::Remington Versa Max Tactical:::12 gauge:::0:::0
+Other:::Ma'tok Staff:::4400
+Other:::Elite Energy Sword:::9420
+Other:::Lawgiver Mk. II:::17050
+Other:::Auto 9:::17127
+Other:::Zorg ZF 1:::32400
+Explosive:::Dynamite:::1000000:::false
+Other:::Phaser:::1100000
+Other:::Noisy Cricket:::83600000
+Other:::Lightsaber:::1600000000
+Other:::Han Solo's Blaster:::342000000
+Other:::BFG 9000:::7000000000
+Explosive:::Little Boy:::63000000000000:::false
+Explosive:::Fat Man:::84000000000000:::false
+Melee:::Broadsword:::2.55:::12.4
+Melee:::Short sword:::1.36:::23.3
+Melee:::Rapier:::1:::31.6
+Melee:::Baseball bat:::0.878835:::36
+Other:::Chainsaw:::2721
+Melee:::Katana:::1.3:::24.3
+Melee:::Dagger:::0.484:::65.4
+Melee:::Human Punch:::1.53:::11
+Melee:::Human Kick:::2.9:::17.9
+Ammunition:::.22 LR:::0.002:::530
+Ammunition:::9 mm:::0.00745:::360
+Ammunition:::.45 ACP:::0.015:::260
+Ammunition:::.375 magnum:::0.012:::430
+Ammunition:::10 mm:::0.011:::390
+Ammunition:::.41 Mag:::0.017:::410
+Ammunition:::.44 Mag:::0.016:::360
+Ammunition:::.50 AE:::0.019:::450
+Ammunition:::.454 Casull:::0.016:::580
+Ammunition:::.460 S&W:::0.013:::700
+Ammunition:::.500 S&W:::0.019:::632
+Ammunition:::5.56 x 45 mm:::0.00356:::993
+Ammunition:::7.62 x 39 mm:::0.0079:::730.3
+Ammunition:::.338 Lapua Magnum:::0.01296:::1005
+Ammunition:::.308:::0.008:::940
+Ammunition:::.50 BMG:::0.042:::928
+Ammunition:::14.5 x 114 mm:::0.0597:::1000
+Ammunition:::.40 S&W:::0.01069:::340
+Ammunition:::.380 ACP:::0.006:::312
+Ammunition:::7.62 x 54 mm:::0.0113:::797
+Ammunition:::7.62 x 51 mm:::0.147:::833
+Ammunition:::.223 Remington:::0.002:::1140
+Ammunition:::10 x 24 mm Caseless:::0.0136:::840
+Ammunition:::10 gauge:::0.05:::396
+Ammunition:::12 gauge:::0.032:::349
+Ammunition:::20 gauge:::0.028:::372
